@@ -1,6 +1,6 @@
 {
   "name": "hcdict",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "cmd tool for dict.cn",
   "main": "index.js",
   "scripts": {
